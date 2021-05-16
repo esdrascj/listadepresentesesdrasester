@@ -6,7 +6,7 @@
 
 /* Elementos com o ID "titulo" */
 #titulo {
-    font-family: sans-serif;
+    font-family: Cooper Hewitt;
     color: #0e0c0f;
     margin-left: 2%;
 } 
@@ -30,7 +30,7 @@ fieldset {
 
 /* Elemento de tag <body> */
 body{
-    background-color: #81d3e1;
+    background-color: #7ef7bb;
     font-family: sans-serif;
     font-size: 16px;
     color: #020107;
