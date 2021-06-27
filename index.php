@@ -484,6 +484,62 @@
                     <label for="conjfacas">Conjunto de Facas Tramontina (Carnes)</label>
                 </div>
             </fieldset>
+
+            <fieldset class="grupo">
+                <div id="check">
+                    <input type="checkbox" id="kitferramentas" name="kitferramentas" value="kitferramentas">
+                    <label for="kitferramentas">Kit de Ferramentas</label>
+                </div>
+            </fieldset>
+            
+            <fieldset class="grupo">
+                <div id="check">
+                    <input type="checkbox" id="tacas" name="tacas" value="tacas">
+                    <label for="tacas">Jogo de Taças de Vidro</label>
+                </div>
+            </fieldset>
+            
+            <fieldset class="grupo">
+                <div id="check">
+                    <input type="checkbox" id="conjsobremesa" name="conjsobremesa" value="conjsobremesa">
+                    <label for="conjsobremesa">Conjunto para Sobremesa</label>
+                </div>
+            </fieldset>
+            
+            <fieldset class="grupo">
+                <div id="check">
+                    <input type="checkbox" id="torneira" name="torneira" value="torneira">
+                    <label for="torneira">Torneira com Filtro - Aluminio/ Inox</label>
+                </div>
+            </fieldset>
+            
+            <fieldset class="grupo">
+                <div id="check">
+                    <input type="checkbox" id="luminaria" name="luminaria" value="luminaria">
+                    <label for="luminaria">Luminaria de Teto</label>
+                </div>
+            </fieldset>
+            
+            <fieldset class="grupo">
+                <div id="check">
+                    <input type="checkbox" id="toalhamesa" name="toalhamesa" value="toalhamesa">
+                    <label for="toalhamesa">Jogo de Toalha de Mesa</label>
+                </div>
+            </fieldset>
+            
+            <fieldset class="grupo">
+                <div id="check">
+                    <input type="checkbox" id="sofa" name="sofa" value="sofa">
+                    <label for="sofa">Sofá 3 Lugares</label>
+                </div>
+            </fieldset>
+            
+            <fieldset class="grupo">
+                <div id="check">
+                    <input type="checkbox" id="abajur" name="abajur" value="abajur">
+                    <label for="abajur">Abajur</label>
+                </div>
+            </fieldset>
 			
             <!-- Caixa de texto -->
             <div class="campo">
